@@ -1,2 +1,2 @@
 # hello-world
-I'm trying this stuff out. 
+Hi i'm really cool. 
